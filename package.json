@@ -1,0 +1,19 @@
+{
+  "name": "csv2json",
+  "version": "1.0.0",
+  "description": "CSVファイルをJSONファイルに変換するツール",
+  "main": "csv2json.js",
+  "scripts": {
+    "start": "node csv2json.js"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "converter"
+  ],
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "csv-parse": "^5.5.3"
+  }
+}
